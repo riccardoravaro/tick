@@ -1,3 +1,5 @@
+Tick  
+
 # dependencies 
 node v16
 npm 
@@ -8,3 +10,5 @@ npm install -g ts-node
 
 # Run the project
 npm run start:dev
+
+
