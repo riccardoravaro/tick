@@ -2,9 +2,10 @@ Tick
 
 
 
-# dependencies 
+# DEPENDENCIES
 node v16
 npm 
+nodemon
 
 # install globally ts-node 
 npm install -g ts-node
